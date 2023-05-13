@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mhnstech/Employe.git/static/css/main.ea5dabaa.css",
+    "main.js": "/mhnstech/Employe.git/static/js/main.ae9e276f.js",
+    "index.html": "/mhnstech/Employe.git/index.html",
+    "main.ea5dabaa.css.map": "/mhnstech/Employe.git/static/css/main.ea5dabaa.css.map",
+    "main.ae9e276f.js.map": "/mhnstech/Employe.git/static/js/main.ae9e276f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea5dabaa.css",
+    "static/js/main.ae9e276f.js"
+  ]
+}
